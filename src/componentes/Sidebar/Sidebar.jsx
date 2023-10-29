@@ -1,4 +1,4 @@
-import Avatar from 'C:/Users/bruno/Documents/Alura/React.JS/react-sass/src/img/eu.jpg'
+const Avatar = '/img/eu.jpg'
 import './sidebar.sass'
 import Socials from '../Socials/Socials'
 import Infos from '../Infos/Infos'

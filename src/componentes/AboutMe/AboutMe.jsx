@@ -1,3 +1,5 @@
+import './aboutme.sass'
+
 const AboutMe = () => {
   return (
     <section className="about-me">
